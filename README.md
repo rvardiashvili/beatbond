@@ -1,4 +1,4 @@
-Beat Bond
+BeatBond
 ==============
 
 About:
